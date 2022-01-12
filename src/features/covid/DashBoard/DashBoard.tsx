@@ -53,7 +53,7 @@ const DashBoard: React.FC = () => {
         <AppBar color="secondary" position="absolute">
           <Toolbar>
             <Typography variant="h6" className={classes.title}>
-              Covid 19 Live Dashboard
+              Covid 19 Live Dashboard!
             </Typography>
             <div>
               <Typography variant="body1">
